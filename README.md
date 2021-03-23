@@ -1,4 +1,9 @@
-# form-example-vue
+# Example Form Made With Vue
+
+##Features:
+ - Dynamic Forms
+ - Form Validation
+ - English/Spanish Language Support
 
 ## Project setup
 ```
