@@ -1,6 +1,6 @@
 # Example Form Made With Vue
 
-##Features:
+## Features:
  - Dynamic Forms
  - Form Validation
  - English/Spanish Language Support
