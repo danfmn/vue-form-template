@@ -124,6 +124,7 @@ export default {
             ['contact_lastname']: { title: 'Last Name', type: 'text' }
           },
           {
+            ['contact_address']: { title: 'Address', type: 'text' },
             ['contact_city']: { title: 'City', type: 'text' },
             ['contact_state']: {
               title: 'State',
