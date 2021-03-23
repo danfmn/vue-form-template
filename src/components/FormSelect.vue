@@ -93,6 +93,7 @@ export default {
 <style scoped>
 
 select {
+  background-color: #fff;
   border-radius: 5px;
   border: 1px;
   border-style: solid;
